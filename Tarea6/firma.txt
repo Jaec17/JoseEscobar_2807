@@ -1,0 +1,22 @@
+hola.py versión 1
+$ shasum -a 1 hola.py
+7fe002ee851d8d50265b47bb4afc8c87e3ac0cd4 *hola.py
+
+$ shasum -a 256 hola.py
+5d1fd29defc0c64ce749ead3429ae376183ea23488f5a56121d597ec425f2c29 *hola.py
+
+hola.py versión 2
+$ shasum -a 1 hola.py
+7a89f3aadb5a5b093747c5a11b8a96e956f1b0cf *hola.py
+
+$ shasum -a 256 hola.py
+1154b8db88c42ee6cd1752518df57f895240b59b042a13888a2f78ad6615e886 *hola.py
+
+hola.py versión 3
+$ shasum -a 1 hola.py
+7fe002ee851d8d50265b47bb4afc8c87e3ac0cd4 *hola.py
+
+$ shasum -a 256 hola.py
+5d1fd29defc0c64ce749ead3429ae376183ea23488f5a56121d597ec425f2c29 *hola.py
+
+
