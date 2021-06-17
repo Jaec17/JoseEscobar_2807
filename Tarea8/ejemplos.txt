@@ -1,0 +1,39 @@
+De acuerdo al tema de FORMA DE OPERAR UN CENTRO DE CÓMPUTO, decidí ejemplificar los siguientes 5
+puntos:
+
+1. Realizar las  copias de respaldo de la información y procesos de cómputo que se realizan en la
+Dirección, conforme a parámetros preestablecidos.
+Ejemplo: 
+- En Windows se pueden programar copias de seguridad las cuales se pueden vaciar en una USB, CD / DVD 
+o disco duro externo.
+- Hay empresas que invierten en su propio data center y servidores. Distribuyen copias de seguridad
+en distintos puntos, a través de una red de ordenadores y dispositivos, la información se guarda en 
+los servidores.
+
+2. Realizar labores de mantenimiento y limpieza de los equipos del centro de cómputo.
+Ejemplo:
+- En muchas empresas u organizaciones se da el mantenimiento preventivo para minimizar fallas,
+mediante el reemplazo o ajuste de elementos en los equipos en un periodo mínimo de 2 veces por año 
+o en el caso de requerimientos o reportes por parte del usuario.
+
+3. Operar el sistema de computación central y mantener el sistema disponible para los usuarios.
+Ejemplo:
+- En 7mo semestre se presentó un proyecto en la clase de redes el cual consistía en levantar un 
+servidor con VPN, acceso remoto y página web. El servidor se instaló en mi equipo y cada que se 
+configuraba algo con mi equipo de trabajo se acordaba una hora específica para que yo encendiera
+el equipo y se pudieran levantar los servicios, obviamente, cada que se apagaba el servidor se
+apagaba la VPN, no se podía acceder al servidor remotamente y la página web no se visualizaba.
+
+4. Velar porque el sistema computarizado se mantenga funcionando apropiadamente y estar vigilante
+para detectar y corregir fallas en el mismo.
+Ejemplo:
+- La empresa en donde trabaja mi madre como recepcionista cuenta únicamente con una persona 
+encargada de administrar la cadena de hoteles de su jefe, atendiendo las fallas en SW y HW, 
+vacunando los equipos, actualizando las claves de los sistemas y en el peor de los casos, 
+comprando equipo nuevo.
+
+5. Aplicar en forma estricta normas de seguridad y control establecidas.
+Ejemplo:
+- Se puede segmentar una red empresarial por cargo o especialidad, otorgar credenciales a cada 
+persona, denegar el acceso a páginas web que no tengan nada que ver con el trabajo, tener un 
+software anti malware, IPS e IDS.
